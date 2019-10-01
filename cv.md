@@ -4,7 +4,7 @@ You can communicate with me via:
   vk.com: id73538115
   telegram: Semen Osekov
   mob. phone: +7-916-653-02-77
-  github: 
+  github: OsekovS
   you also can meet me at Izmailovsky Park in Moscow where I am sometimes runs at tuesdays:)
  My basic education is BMSTU "Radioelectronic complexes and systems". Almost all of my marks 5 and in university I become teachable.
  My education assumes understanding work of systems as a single entity. For example radar contain transmitting, receiving and
@@ -26,3 +26,17 @@ You can communicate with me via:
   https://github.com/OsekovS/brackets
   https://github.com/OsekovS/zeros
   https://github.com/OsekovS/Code_Box
+I learned some courses at htmlacademy https://htmlacademy.ru/profile/id1064203 (many tasks pay and I didnt their)
+This online-book I read https://learn.javascript.ru/
+Books: 
+  "html css" Jon Duckett,
+  "javascript: the good parts" douglas crockford, 
+  "javascript for kids" Nick Morgan,
+  "javascript design patterns" Stoyan Stefanov
+ Cources:
+ https://coursehunter.net/course/javascript-intensivnyy-kurs-dlya-verstalshchikov-ot-dmitriya-lavrika
+ https://coursehunter.net/course/prakticheskiy-html
+What about english? 
+I was in "tsinghua summer school" in July 2017
+https://scholarshipscorner.website/tsinghua-international-summer-school/
+I passed that cources https://vk.com/ct.school (without sertification)
