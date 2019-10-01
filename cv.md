@@ -1,13 +1,11 @@
 My CV:  
 ========================
-* My name
-  ------------------------
+* My name  
    I'm = {  
    FirstName: "Semen",  
    LastName: "Osekov"  
    }  
-* You can communicate with me via:
------------------------------------
+* You can communicate with me via:  
    * email: osekovs@mail.ru
    * vk.com: id73538115
    * telegram: Semen Osekov
