@@ -12,8 +12,7 @@ My CV:
    * mob. phone: +7-916-653-02-77
    * github: OsekovS  
    * _you also can meet me at Izmailovsky Park in Moscow where I am sometimes runs at tuesdays:)_  
-* About me and how i see working process:
------------------------------------------
+* About me and how i see working process:  
    * My basic education is BMSTU "Radioelectronic complexes and systems". Almost all of my marks 5 and in university I become teachable.
       My education assumes understanding work of systems as a single entity. For example radar contain transmitting, receiving and
       antenna systems. It can be take placed on many objects (cars, vehicles, aircrafts, spacecrafts and even on humans body). 
