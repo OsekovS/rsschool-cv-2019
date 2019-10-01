@@ -30,24 +30,31 @@ My CV:
     In future I will learn TDD, React and Redux and Node.js with SQL.
  * Code examples and Experience  
     _Examples of my code you can see in my github repositories:_    
-    * https://github.com/OsekovS/Avito
-    * https://github.com/OsekovS/expression-calculator
-    * https://github.com/OsekovS/brackets
-    * https://github.com/OsekovS/zeros
-    * https://github.com/OsekovS/Code_Box
+    * [Task for "Avito" internship](https://github.com/OsekovS/Avito)
+    * [Interactive web page from figma layout](https://github.com/OsekovS/Code_Box)
+    * RS shool tasks
+       * [#1](https://github.com/OsekovS/expression-calculator)
+       * [#2](https://github.com/OsekovS/brackets)
+       * [#3](https://github.com/OsekovS/zeros)
+       * [#4](https://github.com/OsekovS/morse-decoder)
+       * [#5](https://github.com/OsekovS/tic-tac-toe)
+       * [#6](https://github.com/OsekovS/guessing-game)
+       * [#7](https://github.com/OsekovS/finite-state-machine)
+       * [#8](https://github.com/OsekovS/doubly-linked-list)
+       * [#9](https://github.com/OsekovS/js-edu)
+       * [#10](https://github.com/OsekovS/multiply)
  * Education  
-    * I learned some courses at htmlacademy https://htmlacademy.ru/profile/id1064203 (many tasks pay and I didnt their)
-    * This online-book I read https://learn.javascript.ru/
+    * I learned some courses at [htmlacademy](https://htmlacademy.ru/profile/id1064203) (many tasks pay and I didnt their)
+    * I read [learn.javascript.ru online book](https://learn.javascript.ru/)
     * Books: 
       * "html css" Jon Duckett,
       * "javascript: the good parts" douglas crockford, 
       * "javascript for kids" Nick Morgan,
       * "javascript design patterns" Stoyan Stefanov
     * Cources:
-      * https://coursehunter.net/course/javascript-intensivnyy-kurs-dlya-verstalshchikov-ot-dmitriya-lavrika
-      * https://coursehunter.net/course/prakticheskiy-html
+      * [JS D.Lavrik](https://coursehunter.net/course/javascript-intensivnyy-kurs-dlya-verstalshchikov-ot-dmitriya-lavrika)
+      * [Practical HTML](https://coursehunter.net/course/prakticheskiy-html)
  * English  
       _What about english?_  
-      * I was in "tsinghua summer school" in July 2017
-      https://scholarshipscorner.website/tsinghua-international-summer-school/
-      * I passed that cources https://vk.com/ct.school (without sertification)
+      * I was in ["Tsinghua Summer School"](https://scholarshipscorner.website/tsinghua-international-summer-school/) in July 2017
+      * I passed that [cource](https://vk.com/ct.school) (without sertification)
