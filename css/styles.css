@@ -1,0 +1,107 @@
+img.js{
+    position: absolute;
+    top: 175px;
+    right: 120px;
+}
+.skills-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.code-list li:last-child  ul{
+    width: 50%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 40px 50px 50px 40px;
+    
+}
+.contacts{
+    width: 500px;
+}
+.skills-box{
+    width: 25%;
+    margin-left: 2%;
+}
+.about-me{
+    margin-top: 50px;
+}
+
+.paragraph-contacts,
+.contacts,
+.paragraph-name,
+.name{
+    margin-left: 27%;
+}
+.name,
+.contacts{
+    padding-left: 5%;
+}
+img{
+    float: left;
+    border: 10px solid;
+}
+.future-skills-box{
+    font-size: 40px;
+    width: 50%;
+    margin: 0 auto;
+    padding-left: 25%;
+}
+.wrapper{
+    background-color: hsl(261, 36%, 40%);
+background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+}
+body{
+    color: wheat;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(203, 218, 6);
+}
+
+img.js{
+    border: none;
+}
+p,li,code{
+    font-size: 30px;
+    font-weight: 100;
+}
+ul{
+    font-size: 34px;
+    font-style: italic;
+}
+li{
+    font-style: normal;
+}
+
+.paragraph-skills{
+    text-align: center;
+}
+
+.skills-container li:first-child{
+    list-style: none;
+    font-size:36px;
+    font-style:italic;
+}
+
+
+
+.code-list{
+    margin: 0 auto;
+}
+a{
+    color: gold;
+    font-style: italic;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif
+}
